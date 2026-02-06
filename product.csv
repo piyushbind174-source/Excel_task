@@ -1,0 +1,28 @@
+﻿product_id,product_name,category_id,brand,unit_price,active_status
+101,Laptop Core i5,1,Dell,62000,Yes
+102,Laptop Core i7,1,HP,78000,Yes
+103,Desktop Computer,1,Lenovo,48000,Yes
+104,Laser Printer,1,Canon,16000,Yes
+105,LED Monitor 24 inch,1,Samsung,14000,Yes
+106,Office Chair Executive,2,Godrej,8500,Yes
+107,Office Chair Standard,2,Nilkamal,6500,Yes
+108,Office Desk Wooden,2,IKEA,12500,Yes
+109,Conference Table,2,IKEA,45000,Yes
+110,Paper Ream A4,3,JK Paper,360,Yes
+111,Toner Cartridge Black,3,HP,4800,Yes
+112,Stapler Heavy Duty,3,Kangaro,750,Yes
+113,Whiteboard Marker Set,3,Camlin,420,Yes
+114,Router Dual Band,4,TP-Link,9200,Yes
+115,Network Switch 24 Port,4,Cisco,18500,Yes
+116,LAN Cable 100m,4,D-Link,2800,Yes
+117,External Hard Drive 1TB,5,Seagate,5200,Yes
+118,NAS Storage 4 Bay,5,Synology,65000,Yes
+119,Keyboard Wireless,6,Logitech,1800,Yes
+120,Mouse Wireless,6,Logitech,1200,Yes
+121,USB Hub 4 Port,6,Portronics,950,Yes
+122,CCTV Camera Indoor,7,Hikvision,3200,Yes
+123,Biometric Attendance Device,7,ZKTeco,14500,Yes
+124,UPS 1 KVA,8,APC,15500,Yes
+125,Extension Board Heavy Duty,8,Anchor,2100,Yes
+126,Projector Full HD,10,Epson,72000,Yes
+127,Conference Speakerphone,10,Jabra,39000,Yes

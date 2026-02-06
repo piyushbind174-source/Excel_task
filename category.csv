@@ -1,0 +1,11 @@
+﻿category_id,category_name,category_description,active_status
+1,Electronics,Computing and electronic devices used in office operations,Yes
+2,Furniture,Office furniture and workplace setup items,Yes
+3,Office Supplies,Daily consumable items required for office use,Yes
+4,Networking,Network infrastructure and communication equipment,Yes
+5,Storage,Data and physical storage related products,Yes
+6,Accessories,Peripheral and accessory items for devices,Yes
+7,Security,Surveillance and access control equipment,Yes
+8,Power Equipment,Power backup and electrical office equipment,Yes
+9,Stationery,Writing and documentation related items,Yes
+10,Audio Visual,Presentation and conferencing equipment,Yes
