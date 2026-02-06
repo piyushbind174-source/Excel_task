@@ -1,0 +1,53 @@
+﻿product_id,product_name,category,price_inr
+PRD-1001,Sony WH-1000XM5 Headphones,Electronics,29990
+PRD-1002,Apple iPhone 15,Electronics,79999
+PRD-1003,Dell XPS 15 Laptop,Electronics,164990
+PRD-1004,Samsung 55-inch 4K Smart TV,Electronics,58990
+PRD-1005,Canon EOS 1500D DSLR Camera,Electronics,38990
+PRD-1006,Logitech MX Mechanical Keyboard,Electronics,15995
+PRD-1007,LG UltraGear 27-inch Monitor,Electronics,28999
+PRD-1008,Apple iPad Air (5th Gen),Electronics,59900
+PRD-1009,HP LaserJet Pro M404 Printer,Electronics,24990
+PRD-1010,TP-Link Archer AX73 Wi-Fi Router,Electronics,12999
+ PRD-2001 , Wooden Study Table , Furniture ,11999
+ PRD-2002 , Ergonomic Office Chair , Furniture ,14999
+ PRD-2003 , King Size Bed Frame , Furniture ,32999
+ PRD-2004 , 3-Seater Fabric Sofa , Furniture ,45999
+ PRD-2005 , Modular Kitchen Cabinet , Furniture ,55999
+ PRD-2006 , Bookshelf with 5 Shelves , Furniture ,8999
+ PRD-2007 , Glass Coffee Table , Furniture ,12999
+ PRD-2008 , TV Wall Mount Stand , Furniture ,3499
+ PRD-3001 , Atomic Habits – James Clear , Books ,499
+ PRD-3002 , Rich Dad Poor Dad – Robert Kiyosaki , Books ,399
+ PRD-3003 , Clean Code – Robert C. Martin , Books ,699
+ PRD-3004 , Python for Data Analysis , Books ,899
+ PRD-3005 , Learning SQL , Books ,599
+ PRD-3006 , Power BI Cookbook , Books ,749
+ PRD-3007 , Head First Java , Books ,799
+ PRD-3008 , Introduction to Algorithms , Books ,999
+ PRD-4001 , Men’s Cotton Casual Shirt , Clothing ,1299
+ PRD-4002 , Women’s Denim Jeans , Clothing ,2199
+ PRD-4003 , Sports Running Shoes , Clothing ,3499
+ PRD-4004 , Winter Hooded Jacket , Clothing ,4999
+ PRD-4005 , Formal Office Trousers , Clothing ,1899
+ PRD-4006 , Women’s Cotton Kurti , Clothing ,1599
+ PRD-4007 , Men’s Leather Belt , Clothing ,999
+ PRD-4008 , Unisex Round Neck T-Shirt , Clothing ,799
+ PRD-5001 , Basmati Rice 5kg , Grocery ,749
+ PRD-5002 , Sunflower Cooking Oil 1L , Grocery ,189
+ PRD-5003 , Organic Toor Dal 1kg , Grocery ,229
+ PRD-5004 , Aashirvaad Wheat Flour 10kg , Grocery ,529
+ PRD-5005 , Sugar 1kg , Grocery ,49
+ PRD-5006 , Tata Tea Premium 500g , Grocery ,275
+ PRD-5007 , Nescafe Classic Coffee 200g , Grocery ,399
+ PRD-5008 , Amul Butter 500g , Grocery ,285
+ PRD-1011 , Lenovo Legion Gaming Laptop , Electronics ,129990
+ PRD-1012 , Asus ROG Swift Gaming Monitor , Electronics ,64999
+ PRD-1013 , Bose QuietComfort Ultra Headphones , Electronics ,34990
+ PRD-1014 , Samsung Galaxy Tab S9 , Electronics ,72999
+ PRD-1015 , Logitech K380 Wireless Keyboard , Electronics ,3495
+ PRD-1016 , OnePlus Nord CE 3 Lite Smartphone , Electronics ,19999
+ PRD-1017 , Epson EcoTank L3250 Printer , Electronics ,17999
+ PRD-1018 , Mi Wi-Fi Router 4A Gigabit , Electronics ,2199
+ PRD-1019 , Apple MacBook Air M2 , Electronics ,114990
+ PRD-1020 , Sony Bravia XR OLED TV , Electronics ,189990

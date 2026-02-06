@@ -1,0 +1,51 @@
+﻿customer_id,customer_name,age,contact_number,email,pancard_no,aadhaar_card_no,area,city,state,zipcode
+Cus-1001-Id,Ishaan Verma,29,9258417605,ishaan.verma@gmail.com,ABCPV1234D,123456789001,Andheri East,Mumbai,Maharashtra,400069
+Cus-1002-Id,Ishaan Sharma,34,9672176384,ishaan.sharma@gmail.com,BCDPV2345E,123456789002,Baner,Pune,Maharashtra,411045
+Cus-1003-Id,Mohan Iyer,41,9310968755,mohan.iyer@gmail.com,CDEPI3456F,123456789003,Dharampeth,Nagpur,Maharashtra,440010
+Cus-1004-Id,Aditya Iyer,27,8982609623,aditya.iyer@gmail.com,DEFGI4567G,123456789004,Kothrud,Pune,Maharashtra,411038
+Cus-1005-Id,Ananya Sharma,32,8687243258,ananya.sharma@gmail.com,EFGHI5678H,123456789005,Powai,Mumbai,Maharashtra,400076
+Cus-1006-Id,Aarav Reddy,35,7684325750,aarav.reddy@gmail.com,FGHIJ6789J,123456789006,Hingna,Nagpur,Maharashtra,440016
+Cus-1007-Id,Aditya Mehta,38,8303279207,aditya.mehta@gmail.com,GHIJK7890K,123456789007,Viman Nagar,Pune,Maharashtra,411014
+Cus-1008-Id,Rohit Iyer,30,9903296693,rohit.iyer@gmail.com,HIJKL8901L,123456789008,Chembur,Mumbai,Maharashtra,400071
+Cus-1009-Id,Mohan Patel,45,9833011278,mohan.patel@gmail.com,IJKLM9012M,123456789009,Wardhaman Nagar,Nagpur,Maharashtra,440008
+Cus-1010-Id,Aditya Reddy,28,8517387478,aditya.reddy@gmail.com,JKLMN0123N,123456789010,Wakad,Pune,Maharashtra,411057
+Cus-1011-Id,Riya Iyer,26,8640895349,riya.iyer@gmail.com,KLMNO1234P,123456789011,Matunga,Mumbai,Maharashtra,400019
+Cus-1012-Id,Ishaan Reddy,33,8113894876,ishaan.reddy@gmail.com,LMNOP2345Q,123456789012,Manish Nagar,Nagpur,Maharashtra,440015
+Cus-1013-Id,Ananya Iyer,29,7933191679,ananya.iyer@gmail.com,MNOPQ3456R,123456789013,Hinjewadi,Pune,Maharashtra,411057
+Cus-1014-Id,Ananya Nair,31,7975397321,ananya.nair@gmail.com,NOPQR4567S,123456789014,Goregaon West,Mumbai,Maharashtra,400062
+Cus-1015-Id,Riya Verma,34,9390410907,riya.verma@gmail.com,OPQRS5678T,123456789015,Pratap Nagar,Nagpur,Maharashtra,440022
+Cus-1016-Id,Aarav Verma,36,8050131940,aarav.verma@gmail.com,PQRST6789U,123456789016,Aundh,Pune,Maharashtra,411007
+Cus-1017-Id,Saanvi Singh,25,8500387896,saanvi.singh@gmail.com,QRSTU7890V,123456789017,Kandivali East,Mumbai,Maharashtra,400101
+Cus-1018-Id,Mohan Mehta,42,9265814041,mohan.mehta@gmail.com,RSTUV8901W,123456789018,Trimurti Nagar,Nagpur,Maharashtra,440022
+Cus-1019-Id,Mohan Patel,39,8869343315,mohan.patel2@gmail.com,STUVW9012X,123456789019,Hadapsar,Pune,Maharashtra,411028
+Cus-1020-Id,Vihaan Reddy,24,7730551259,vihaan.reddy@gmail.com,TUVWX0123Y,123456789020,Borivali West,Mumbai,Maharashtra,400092
+Cus-1021-Id,Aisha Nair,28,8533600361,aisha.nair@gmail.com,UVWXY1234Z,123456789021,Narendra Nagar,Nagpur,Maharashtra,440015
+Cus-1022-Id,Saanvi Kumar,35,9428997166,saanvi.kumar@gmail.com,VWXYZ2345A,123456789022,Karve Nagar,Pune,Maharashtra,411052
+Cus-1023-Id,Rohit Patel,40,7246440114,rohit.patel@gmail.com,WXYZA3456B,123456789023,Malad West,Mumbai,Maharashtra,400064
+Cus-1024-Id,Vihaan Verma,27,8771278906,vihaan.verma@gmail.com,XYZAB4567C,123456789024,Nandanvan,Nagpur,Maharashtra,440009
+Cus-1025-Id,Ananya Singh,33,7565431538,ananya.singh@gmail.com,YZABC5678D,123456789025,Bavdhan,Pune,Maharashtra,411021
+Cus-1026-Id,Aarav Patel,31,8018331210,aarav.patel@gmail.com,ZABCD6789E,123456789026,Mulund West,Mumbai,Maharashtra,400080
+Cus-1027-Id,Riya Singh,29,8379384809,riya.singh@gmail.com,ABCDE7890F,123456789027,Sadar,Nagpur,Maharashtra,440001
+Cus-1028-Id,Saanvi Iyer,26,9220383085,saanvi.iyer@gmail.com,BCDEF8901G,123456789028,Pimple Saudagar,Pune,Maharashtra,411027
+Cus-1029-Id,Aditya Reddy,37,9789332175,aditya.reddy2@gmail.com,CDEFG9012H,123456789029,Dadar East,Mumbai,Maharashtra,400014
+Cus-1030-Id,Riya Verma,34,9151098822,riya.verma2@gmail.com,DEFGH0123I,123456789030,Mankapur,Nagpur,Maharashtra,440030
+Cus-1031-Id,Kunal Deshpande,36,9823456710,kunal.deshpande@gmail.com,EFGHJ2345J,123456789031,Karve Road,Pune,Maharashtra,411004
+Cus-1032-Id,Neha Kulkarni,28,9765432189,neha.kulkarni@gmail.com,FGHJK3456K,123456789032,Kalyani Nagar,Pune,Maharashtra,411006
+Cus-1033-Id,Suresh Patil,44,9890123456,suresh.patil@gmail.com,GHJKL4567L,123456789033,Dhantoli,Nagpur,Maharashtra,440012
+Cus-1034-Id,Pooja Joshi,31,9702345611,pooja.joshi@gmail.com,HJKLM5678M,123456789034,Borivali East,Mumbai,Maharashtra,400066
+Cus-1035-Id,Nitin Gawande,39,9421678901,nitin.gawande@gmail.com,IJKLM6789N,123456789035,Jaripatka,Nagpur,Maharashtra,440014
+Cus-1036-Id,Shweta Kulkarni,34,9820786543,shweta.kulkarni@gmail.com,JKLMN7890P,123456789036,Vile Parle West,Mumbai,Maharashtra,400056
+Cus-1037-Id,Pratik Bansod,27,8887765432,pratik.bansod@gmail.com,KLMNO8901Q,123456789037,Nandanvan,Nagpur,Maharashtra,440009
+Cus-1038-Id,Amruta Pawar,29,9734562180,amruta.pawar@gmail.com,LMNOP9012R,123456789038,Pashan,Pune,Maharashtra,411021
+Cus-1039-Id,Akash Chavan,35,9812345678,akash.chavan@gmail.com,MNOPQ0123S,123456789039,Lower Parel,Mumbai,Maharashtra,400013
+Cus-1040-Id,Sneha Borkar,26,9156782345,sneha.borkar@gmail.com,NOPQR1234T,123456789040,Manewada,Nagpur,Maharashtra,440024
+Cus-1041-Id,Ramesh Jadhav,48,9823123490,ramesh.jadhav@gmail.com,OPQRS2345U,123456789041,Shivaji Nagar,Pune,Maharashtra,411005
+Cus-1042-Id,Pallavi More,33,9702789345,pallavi.more@gmail.com,PQRST3456V,123456789042,Andheri West,Mumbai,Maharashtra,400053
+Cus-1043-Id,Yogesh Thakur,41,9423456781,yogesh.thakur@gmail.com,QRSTU4567W,123456789043,Koradi Road,Nagpur,Maharashtra,440025
+Cus-1044-Id,Komal Sawant,28,9967123489,komal.sawant@gmail.com,RSTUV5678X,123456789044,Bhandup West,Mumbai,Maharashtra,400078
+Cus-1045-Id,Sanket Shinde,32,9739876541,sanket.shinde@gmail.com,STUVW6789Y,123456789045,Ravet,Pune,Maharashtra,412101
+Cus-1046-Id,Bhushan Kale,37,9422865432,bhushan.kale@gmail.com,TUVWX7890Z,123456789046,Ayodhya Nagar,Nagpur,Maharashtra,440024
+Cus-1047-Id,Tejas Patankar,29,9820456712,tejas.patankar@gmail.com,UVWXY8901A,123456789047,Dombivli East,Mumbai,Maharashtra,421201
+Cus-1048-Id,Priti Desai,34,9765789012,priti.desai@gmail.com,VWXYZ9012B,123456789048,Sus Road,Pune,Maharashtra,411021
+Cus-1049-Id,Manish Ukey,43,9158347621,manish.ukey@gmail.com,WXYZA0123C,123456789049,Umred Road,Nagpur,Maharashtra,440009
+Cus-1050-Id,Aarti Kulkarni,31,9892456701,aarti.kulkarni@gmail.com,XYZAB1234D,123456789050,Ghatkopar East,Mumbai,Maharashtra,400077
